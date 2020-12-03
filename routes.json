@@ -2,7 +2,7 @@
   "routes": [
     {
       "route": "/*",
-      "serve": "www.facebook.com/boutiquebrewers",
+      "serve": "https://www.facebook.com/boutiquebrewers",
       "statusCode": 301
     }
   ]
