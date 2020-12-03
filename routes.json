@@ -1,0 +1,9 @@
+{
+  "routes": [
+    {
+      "route": "/*",
+      "serve": "www.facebook.com/boutiquebrewers",
+      "statusCode": 301
+    }
+  ]
+}
